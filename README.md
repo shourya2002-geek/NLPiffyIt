@@ -6,8 +6,8 @@ An interactive Natural Language Processing(NLP) Web App, which is embedded with 
 - Structuring of NLP pipeline, including Tokenization, Lemmatization and Emotion Recognition.
 
 Frameworks used:
--Frontend: Python Streamlit
--External API: AssemblyAI
+- Frontend: Python Streamlit
+- External API: AssemblyAI
 
 
 
