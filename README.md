@@ -1,5 +1,9 @@
 # NLPiffyIt-
-This is an innovative application built using Python and Streamlit, which endeavours to bring about Speech To Text Conversion(STT) ,while providing an interactive UI. This application integrates pure Machine Learning code into Web Development.
+An interactive Natural Language Processing(NLP) Web App, which is embedded with the following features:
+⚫ Automated text parsing of any video/audio, and feature extraction.
+⚫ Translation, entity recognition and pattern searching of text data using Natural Language Processing Techniques.
+⚫ Structuring of NLP pipeline, including Tokenization, Lemmatization and Emotion Recognition.
+Frameworks used: React JS and Python Streamlit(Frontend) External Backend API
 
 Link to the Application:
 https://share.streamlit.io/shourya2002-geek/web-apps-using-ml/new/index.py
